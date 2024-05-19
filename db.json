@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "name": "Lasini Sipsara Wickckramaarachchi",
+      "email": "lasini272si@gmail.com",
+      "phone": "0764333656",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "hiran chamara",
+      "username": "hira",
+      "email": "hiran@gmail.com",
+      "phone": "077-9081707",
+      "website": "youtube.com"
+    },
+    {
+      "id": "3",
+      "name": "kaveesha nethmini",
+      "username": "kavee",
+      "email": "kaveesha@gmail.com",
+      "phone": "071-8422907",
+      "website": "whatsapp.com"
+    }
+  ]
+}
